@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "이세영의 뒤죽박죽 개발 일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이세영"
+name                     : "LEE sea young"
 description              : "An amazing website."
 url                      : "https://leeseayoung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
